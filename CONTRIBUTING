@@ -1,1 +1,38 @@
+# Contribute to Collapse OS
 
+Thanks for considering participating to Collapse OS. That the
+idea of a post-collapse operating system sparks your interest is
+great.
+
+However, this is a very personal and opinionated project and
+this doesn't fit well with the idea of collective development.
+The code is so tightly integrated, holistic, that you are
+unlikely to find areas of improvements that I would agree with.
+Changing a part is changing the whole.
+
+Discussions? certainly! Come over the mailing list and let's
+discuss design choices, implementation details, whatever. I'm
+not perfect and make plenty of mistakes, some of which you can
+certainly spot.
+
+The general "Github" way to contribute to a project is to take
+a look around the code, find some bug or area of improvement and
+then submit it as the proposal. The code is the discussion.
+
+With Collapse OS having a radical approach to simplicity,
+implementation is often trivial. What is difficult is the
+*choice*. That choice needs context, discussion. So, let's start
+with this instead of the diff.
+
+I know what you're thinking. This isn't fun. You like the idea
+of Collapse OS and you want to hack into the code. I completely
+understand it and I am flattered that the project inspires this
+in you.
+
+Why not fork? Pour your own creative energy into the idea, make
+your own personal take. I don't hold absolute truths, my
+designs might be bad. Then, let's show each other the result
+and steal good ideas from each other.
+
+Sure, it's me who owns the collapseos.org domain, but that's my
+first mover privilege :)
